@@ -134,7 +134,7 @@ html{
 .container{
 
     position:relative;
-    background-color: lightgrey;
+    background-color: rgb(170, 230, 245);
     left:-30px;
     top:-20px;
     width: 800px;
